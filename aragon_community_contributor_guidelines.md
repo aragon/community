@@ -6,7 +6,7 @@ All Aragon community contributors are expected to follow the [Aragon Community C
 ## Unlicense  
 All contributions made to the aragon/community repo are to be released under the [Unlicense](https://github.com/aragon/community/blob/master/UNLICENSE). Major contributions should be accompanied by the following copyright waiver, preferably digitally signed with a PGP key. If you do not include with waiver with your contribution, you may be asked by a repo maintainer to include this waiver with your contribution before it can be accepted.  
 
-### Copyright waiver for <http://github.com/aragon/community>  
+`### Copyright waiver for <http://github.com/aragon/community>  
 
 I dedicate any and all copyright interest in this content to the
 public domain. I make this dedication for the benefit of the public at
@@ -22,5 +22,5 @@ of copyright by other parties.
 To the best of my knowledge and belief, no individual, business,
 organization, government, or other entity has any copyright interest
 in my contributions, and I affirm that I will not make contributions
-that are otherwise encumbered.
+that are otherwise encumbered.`
 
