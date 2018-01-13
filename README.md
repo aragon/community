@@ -1,3 +1,5 @@
+<img src="https://wiki.aragon.one/images/logo_text_right_dark.png"></img>
+
 # Welcome to the Aragon community!
 This repo is where we organize collaborative community efforts. Continue reading to learn more about Aragon and how you can join and collaborate with the Aragon community.
 
