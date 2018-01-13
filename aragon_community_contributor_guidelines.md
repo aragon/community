@@ -4,7 +4,7 @@
 All Aragon community contributors are expected to follow the [Aragon Community Code of Conduct](https://wiki.aragon.one/documentation/Code_of_Conduct/). The code of conduct may change without notice, so be sure to review it from time to time for any changes you might have missed. Instructions for reporting violations of the code of conduct can be found at the bottom of the code of conduct document.  
 
 ## Unlicense  
-All contributions made to the aragon/community repo are to be released under the [Unlicense](https://github.com/aragon/community/blob/master/UNLICENSE). Major contributions should be accompanied by the below copyright waiver, preferably digitally signed with a PGP key associated with your account. If you do not include this waiver with your contribution, you may be asked by a repo maintainer to include this waiver with your contribution before it can be accepted.  
+All contributions made to the aragon/community repo are to be released under the [Unlicense](https://github.com/aragon/community/blob/master/UNLICENSE). Major contributions should be accompanied by the below copyright waiver, preferably digitally signed with a PGP key associated with your account. If you do not include this waiver with your contribution, you may be asked by a repo maintainer to include this waiver with your contribution before it can be accepted. Please submit your copyright waiver as a pull request to the [copyright_waivers](https://github.com/aragon/community/tree/master/copyright_waivers) folder in this repo.
 
 > Copyright waiver for http://github.com/aragon/community  
 > 
@@ -23,4 +23,3 @@ of copyright by other parties.
 organization, government, or other entity has any copyright interest
 in my contributions, and I affirm that I will not make contributions
 that are otherwise encumbered.
-
