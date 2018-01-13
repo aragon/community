@@ -1,4 +1,4 @@
-# Welcome to the Aragon community
+# Welcome to the Aragon community!
 This repo is where we organize collaborative community efforts. Continue reading to learn more about Aragon and how you can join and collaborate with the Aragon community.
 
 ## What is Aragon?
