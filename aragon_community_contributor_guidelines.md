@@ -1,4 +1,4 @@
-#Aragon Community Contributor Guidelines  
+# Aragon Community Contributor Guidelines  
 
 ## Code of Conduct  
 All Aragon community contributors are expected to follow the [Aragon Community Code of Conduct](https://wiki.aragon.one/documentation/Code_of_Conduct/). The code of conduct may change without notice, so be sure to review it from time to time for any changes you might have missed. Instructions for reporting violations of the code of conduct can be found at the bottom of the code of conduct document.  
