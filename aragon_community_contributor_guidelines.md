@@ -1,5 +1,20 @@
 # Aragon Community Contributor Guidelines  
 
+## Purpose  
+The purpose of the aragon/community repo is to organize Aragon community contributions in an accessible, collaborative format.  
+
+Here are examples of the kind of contributions that are appropriate for this repo:  
+
+- Organizing a community event in your area  
+- Sharing an event that you think members of the project should attend, sponsor, or speak at  
+- Creating an infographic that can be used for marketing or education  
+- Suggesting new activities that community members should be involved in to promote the project  
+
+To make suggestions or propose an idea that you want to work on, create a [new issue](https://github.com/aragon/community/issues) so we can discuss your idea, provide feedback, suggest changes, and point out any similar ideas that others might be working on.
+
+## Prerequisits
+Basic knowledge of GitHub and git are required to contribute to projects in the Aragon GitHub repo. A guide to contributing to open-source projects on GitHub can be found [here](https://opensource.guide/how-to-contribute/).  
+
 ## Code of Conduct  
 All Aragon community contributors are expected to follow the [Aragon Community Code of Conduct](https://wiki.aragon.one/documentation/Code_of_Conduct/). The code of conduct may change without notice, so be sure to review it from time to time for any changes you might have missed. Instructions for reporting violations of the code of conduct can be found at the bottom of the code of conduct document.  
 
