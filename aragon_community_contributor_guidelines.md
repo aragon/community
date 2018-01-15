@@ -10,7 +10,7 @@ Here are examples of the kind of contributions that are appropriate for this rep
 - Creating an infographic that can be used for marketing or education  
 - Suggesting new activities that community members should be involved in to promote the project  
 
-To make suggestions or propose an idea that you want to work on, create a [new issue](https://github.com/aragon/community/issues) so we can discuss your idea, provide feedback, suggest changes, and point out any similar ideas that others might be working on.
+To make suggestions or propose an idea that you want to work on, create a [new issue](https://github.com/aragon/community/issues) so we can discuss your idea, provide feedback, suggest changes, and point out any similar ideas that others might be working on. You can also create "meta-issues" in this repo to suggest changes to the repo and community collaboration process itself. Please ensure that your issues and pull requests are well-commented and documented so others can easily understand what you are asking or proposing.
 
 ## Prerequisites
 Basic knowledge of GitHub and git are required to contribute to projects in the Aragon GitHub repo. A guide to contributing to open-source projects on GitHub can be found [here](https://opensource.guide/how-to-contribute/).  
