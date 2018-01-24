@@ -1,4 +1,4 @@
-Content in this repo is being published under a CC0 1.0 Universal unlicense. You can find more information about this license on the Creative Commons website: https://creativecommons.org/publicdomain/zero/1.0/.
+Content in this repo is being published under a CC0 1.0 Universal unlicense. You can find more information about this license on the Creative Commons website: https://creativecommons.org/publicdomain/zero/1.0/
 
 ## Statement of Purpose
 
