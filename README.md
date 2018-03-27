@@ -7,7 +7,7 @@ This repo is where we organize collaborative community efforts. Continue reading
 Aragon is a free software application that makes it easy to create and participate in Decentralized Autonomous Organizations. You can learn more about the project at https://aragon.one and https://wiki.aragon.one.
 
 ## Contribution guidelines  
-All contributors to this repo are expected to follow the guidelines set forth in our [Aragon Community Contributor Guidelines](https://github.com/aragon/community/blob/master/aragon_community_contributor_guidelines.md). Please review these guidelines before contributing. 
+All contributors to this repo are expected to follow the guidelines set forth in our [Aragon Community Contributor Guidelines](https://github.com/aragon/community/blob/master/CONTRIBUTING.md). Please review these guidelines before contributing. 
 
 ## Official community channels  
 We have official community channels managed by the Aragon Foundation on most major platforms. Join, subscribe, like, and follow on your favorite channels to keep up with Aragon activities and meet fellow Aragon community members.  
