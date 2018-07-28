@@ -1,16 +1,23 @@
 # Aragon Community Contributor Guidelines  
 
 ## Purpose  
-The purpose of the aragon/community repo is to organize Aragon community contributions in an accessible, collaborative format.  
+The purpose of the aragon/community repo is track to-do tasks related to suggested changes in Aragon community infrastructure.  
 
-Here are examples of the kind of contributions that are appropriate for this repo:  
+Here are examples of the kind of issues that are appropriate for this repo:  
 
-- Organizing a community event in your area  
-- Sharing an event that you think members of the project should attend, sponsor, or speak at  
-- Creating an infographic that can be used for marketing or education  
-- Suggesting new activities that community members should be involved in to promote the project  
+- Suggesting a change to the rules of the Aragon subreddit
+- Suggesting the implementation of a new bot in Aragon Chat
+- Suggesting a new channel in Aragon Chat 
+- Suggesting a new use for the Aragon YouTube channel
+- Suggesting we use a new tool instead of something we already use (such as alternative to GitHub)
 
-To make suggestions or propose an idea that you want to work on, create a [new issue](https://github.com/aragon/community/issues) so we can discuss your idea, provide feedback, suggest changes, and point out any similar ideas that others might be working on. You can also create "meta-issues" in this repo to suggest changes to the repo and community collaboration process itself. Please ensure that your issues and pull requests are well-commented and documented so others can easily understand what you are asking or proposing.
+And other related ideas. Really any change that you can think of that touches the infrastructure that the Aragon community uses to collaborate.
+
+## How to contribute
+
+To make suggestions or propose an idea that you want to work on, create a [new issue](https://github.com/aragon/community/issues) so we can discuss your idea, provide feedback, suggest changes, and point out any similar ideas that others might be working on. You can also create "meta-issues" in this repo to suggest changes to the repo and the community collaboration process itself. Please ensure that your issues and pull requests are well-commented and documented so others can easily understand what you are asking or proposing.
+
+Sometimes GitHub isn't the best place to have nuanced discussion about an issue. So after you create your issue, you can optionally start a thread with the same title as your issue in the Aragon Forum under the [Community](https://research.aragon.org/c/community) category. Put a link to the issue in the first post of the thread with a prompt to start a discussion. Then you can share the link to the forum thread in other places to attract attention to the discussion and draw more people in to help and have a productive conversation, hopefully leading to the resolution of your issue. Once your issue is resolved, both the forum thread and the issue on GitHub can be closed.
 
 ## Prerequisites
 Basic knowledge of GitHub is required to contribute to this repo. A beginner's guide to contributing to open-source projects on GitHub can be found [here](https://handbook.enspiral.com/guides/github_for_beginners.html). 
