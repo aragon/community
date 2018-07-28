@@ -4,4 +4,4 @@ about: Changes to https://aragon.chat
 
 ---
 
-
+## What kind of change would you like to see made to Aragon Chat?
