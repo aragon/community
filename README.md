@@ -3,7 +3,7 @@
 ## Purpose  
 The purpose of this repo is to track suggested changes to Aragon community infrastructure.
 
-Here are examples of the kind of issues that are appropriate for this repo:  
+Some examples of the kind of issues that are appropriate for this repo:  
 
 - Suggesting a change to the rules of the Aragon subreddit
 - Suggesting the implementation of a new bot in Aragon Chat
